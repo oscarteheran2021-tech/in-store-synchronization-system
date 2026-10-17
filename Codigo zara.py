@@ -7,7 +7,7 @@ espacio_disponible_total = capacidad_maxima - stock_total
 demanda_diaria_clientes = 100
 
 # Datos del producto
-nombre_producto = "Chaqueta Blazer"
+nombre_producto = "Chaqueta - Blazer"
 Talla_producto = "M"
 precio_unitario = 150000.0
 ubicacion_actual = "Exhibida"
